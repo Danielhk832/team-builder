@@ -22,7 +22,7 @@ export default function Form(props) {
                     <input 
                         type="text"
                         name="name"
-                        placeholder="BADA BING BADA BOOM TYPE YOUR NAME OR FEEL MY GABAGHOUL"
+                        placeholder="Enter name"
                         onChange={onChange}
                         value={values.name}
                         />
